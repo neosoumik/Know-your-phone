@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is to show the device specifications.
+This project is about app to show the device specifications.
 
